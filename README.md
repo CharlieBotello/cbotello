@@ -21,6 +21,16 @@ Or install it yourself as:
     $ gem install cbotello
 
 ## Usage
+Here is the file to start up a Cookbook interface 
+
+```ruby
+require 'cbotello'
+#this line starts your interface.  ButtermilBiscuits::Frintend.new.run
+```
+
+```
+```
+
 
 TODO: Write usage instructions here
 
