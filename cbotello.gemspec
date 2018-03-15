@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["charlieabotello@gmail.com"]
 
 
-  spec.summary       = "blowdryer"
-  spec.description   = "it's a awesome item to style your hair"
+  spec.summary       = "terminal interface for classroom cookbook app"
+  spec.description   = "I have strugled long and hard to make this excutible.  "
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
