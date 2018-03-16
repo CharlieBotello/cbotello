@@ -1,8 +1,8 @@
 require "cbotello/version"
 
 module Cbotello
-  class BlowDryer
-    def dry
+  class Say
+    def this
     `say hello Eye of the Tiger`
     end
   end
